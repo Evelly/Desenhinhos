@@ -1,0 +1,41 @@
+body{
+  background-color: white;
+}
+.logo{
+  margin: 25px 15px;
+  width: 85px;
+  background-color: rgb(223, 243, 245);
+  float: left;
+}
+div h2{
+  position: relative;
+  top: 50px;
+  text-transform: uppercase;
+  color: white;
+}
+.branco{
+  color: white;
+}
+#prgf{
+  margin: auto;
+  width: 450px;
+}
+hr{
+  margin: 110px 50px 20px 50px;
+}
+#central{
+  width: 900px;
+  margin: auto;
+}
+.central{
+  margin-top: 80px;
+  width: 900px;
+}
+#principal{
+  background-color: black;
+}
+a{
+  text-decoration: none;
+  color: white;
+  padding: 9px;
+}
