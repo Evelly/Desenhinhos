@@ -1,0 +1,33 @@
+#rec{
+    border: 0.5px solid rgb(184, 181, 178);
+    width: cover;
+    margin: 30px 0px;
+    padding: 50px 80px 100px 80px;
+}
+p{
+    font-size: 14pt;
+}
+h5{
+    color: rgb(82, 82, 79);
+}
+.título{
+    font-size: 36pt;
+}
+img{
+    height: 700px;
+    width: 100%;
+    margin: 50px auto;
+}
+a img{
+    width: 20px;
+    height: 20px;
+    margin: 5px;
+    padding: 0px;
+}
+#fundin{
+    margin: 0px;
+}
+span hr{
+    margin: 0px;
+    color: rgb(96, 96, 97);
+}

@@ -1,41 +1,61 @@
+
 body{
+  margin: 0px;
+  top: 0px;
   background-color: white;
 }
-.logo{
-  margin: 25px 15px;
-  width: 85px;
-  background-color: rgb(223, 243, 245);
-  float: left;
-}
-div h2{
-  position: relative;
-  top: 50px;
-  text-transform: uppercase;
-  color: white;
+#stilocentral h1{
+  font-size: 60pt;
 }
 .branco{
   color: white;
 }
-#prgf{
-  margin: auto;
-  width: 450px;
+#posts{
+  font-size: 32pt;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 hr{
   margin: 110px 50px 20px 50px;
 }
-#central{
-  width: 900px;
-  margin: auto;
+#post a{
+  color: rgb(100, 100, 100);
+  font-size: 20px;
 }
-.central{
-  margin-top: 80px;
-  width: 900px;
+.contact{
+  color: black;
 }
-#principal{
-  background-color: black;
+#postage1{
+  float: left;
+  color: rgb(100, 100, 100);
+  font-family: monospace;
+  margin: 30px auto;
+  width: 40%;
+  height: 450px;
+  background: url(../img/post.jpg);
+  background-size: cover;
 }
-a{
-  text-decoration: none;
-  color: white;
-  padding: 9px;
+#post a{
+  position: static;
+  top: 400px;
 }
+#postage2{
+  float: right;
+  color: rgb(100, 100, 100);
+  font-family: monospace;
+  margin: 30px auto;
+  width: 40%;
+  height: 450px;
+  background: url(../img/post2.jpg);
+  background-size: cover;
+}
+/*
+#postage2{
+  float: right;
+  color: rgb(100, 100, 100);
+  font-family: monospace;
+  margin: 30px auto 10px auto;
+  width: 450px;
+  height: 450px;
+  background: url(../img/post2.jpg);
+  background-size: cover;
+}*/

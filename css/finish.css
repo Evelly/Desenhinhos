@@ -1,0 +1,27 @@
+#Tcontact{
+  width: 80%;
+  margin: 150px auto 0px auto;
+  background-color: black;
+  padding: 50px;
+}
+#post{
+  margin: 150px auto;
+  width: 60%;
+  padding: 50px;
+}
+#contact1{
+  position: static;
+  left:5px;
+  width: 50%;
+  height: 320px;
+  float: left;
+  color: white;
+  font-style: italic;
+  background-color: rgb(54, 54, 54);
+}
+#contact2{
+  width: 40%;
+  height: 320px;
+  float: right;
+  background-color: rgb(54, 54, 54);
+}
